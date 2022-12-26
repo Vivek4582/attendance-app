@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "212427688253",
+    "project_id": "vivekotp-7e94c",
+    "storage_bucket": "vivekotp-7e94c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212427688253:android:31212a7b3c19cce71cdd54",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212427688253-54phd6rkhhm707g4gr510tjug8cp6nv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled",
+            "certificate_hash": "b4b32aaeddce54e75dc04cf4fb80da69d2429dc3"
+          }
+        },
+        {
+          "client_id": "212427688253-sbf1k50n16ie68bi5n81kpvv5n7rakgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEXTHptTo7FRKckn-ePhlSqX8b1waS0u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212427688253-sbf1k50n16ie68bi5n81kpvv5n7rakgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
